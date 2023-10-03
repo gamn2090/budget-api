@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Budget API</h1>
+<h1 align="center" id="title">📈 Budget API 📉</h1>
 
 <p align="center"><img src="https://socialify.git.ci/gamn2090/budget-api/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Auto" alt="budget-api" width="640" height="320" /></p>
 
