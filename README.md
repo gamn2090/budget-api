@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Budget API</h1>
 
-<p align="center"><img src="https://socialify.git.ci/gamn2090/budget-api/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Auto" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/gamn2090/budget-api/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Auto" alt="budget-api" width="640" height="320" /></p>
 
 <p id="description">Node + Express API to create a simple budget and its movements while storing the data in a MongoDB</p>
 
