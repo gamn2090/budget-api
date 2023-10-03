@@ -8,7 +8,7 @@
 
 [https://node-budget-api.onrender.com](https://node-budget-api.onrender.com)
 
-<h2>📜 Dcoumentation</h2>
+<h2>📜 Documentation</h2>
 
 [https://documenter.getpostman.com/view/3761165/2s9YJc2iMo](https://documenter.getpostman.com/view/3761165/2s9YJc2iMo)
   
